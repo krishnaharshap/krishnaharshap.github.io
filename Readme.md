@@ -9,50 +9,6 @@
   </p>
 </div>
 
-<style>
-/* GitHub strips <style> but keeps inline styles, so use inline styles below */
-.profile-card {
-  border: 2px solid #6366f1;
-  border-radius: 16px;
-  background: #f1f5f9;
-  margin: 2em auto;
-  max-width: 700px;
-  padding: 1.5em 2em;
-  box-shadow: 0 2px 8px #6366f122;
-}
-.badge {
-  display: inline-block;
-  background: #6366f1;
-  color: #fff;
-  border-radius: 12px;
-  padding: 0.3em 0.9em;
-  margin: 0.15em;
-  font-size: 1em;
-}
-.project-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
-  justify-content: center;
-  margin: 1.5em 0;
-}
-.project-card {
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  background: #fff;
-  min-width: 280px;
-  max-width: 320px;
-  padding: 1em;
-  margin: 0.5em;
-  box-shadow: 0 2px 6px #6366f122;
-}
-.project-card h3 {
-  margin-top: 0;
-  color: #3b82f6;
-  font-size: 1.1em;
-}
-</style>
-
 <div class="profile-card" align="center" style="border:2px solid #6366f1; border-radius:16px; background:#f1f5f9; max-width:700px; margin:auto; padding:1.5em 2em; box-shadow:0 2px 8px #6366f122;">
   <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%; margin-bottom:1em;">
   <p>
