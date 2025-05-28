@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
-    👋 Hi, I'm <span style="color:#6366f1;">Krishna Harsha</span>
+    👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
   </h1>
   <p style="font-size:1.2em; color:#64748b;">
     <b>SDET | QA Automation | Python | Selenium | Cypress | Open Source Enthusiast</b>
