@@ -61,8 +61,9 @@
 
 - 🏅 **500+** test cases automated across different enterprise projects
 - ⭐ **Open source contributor** to [pytest-dev](https://github.com/pytest-dev/pytest) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
-- 📢 **Speaker at QA Automation Summit 2025**
-- 🎓 **Certified Test Analyst** (ISTQB CTFL 4.0)
+- 📢 **Speaker at The Test Tribe Workshop 2025**
+- 🎓 **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
+- 🎓 **Certified  AWS Certified Cloud Practitioner ** (AWS CCP CLF-C02)
 
 ---
 
