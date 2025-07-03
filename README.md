@@ -63,7 +63,7 @@
 - ⭐ **Open source contributor** to [pytest-dev](https://github.com/pytest-dev/pytest) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
 - 📢 **Speaker at The Test Tribe Workshop 2025**
 - 🎓 **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
-- 🎓 **Certified  AWS Certified Cloud Practitioner ** (AWS CCP CLF-C02)
+- 🎓 **Certified  AWS Certified Cloud Practitioner** (AWS CCP CLF-C02)
 
 ---
 
@@ -71,6 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnaharshap&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaharshap&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </div>
 
