@@ -21,15 +21,16 @@
     <span class="badge" style="background:#f43f5e;">Open Source</span>
   </p>
   <p>
-    <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/krishna-p-472514236/" style="margin-right: 1em;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+   <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
     </a>
     <a href="https://github.com/krishnaharshap">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" height="28"/>
     </a>
+    <a href="https://www.linkedin.com/in/krishna-p-472514236/" style="margin-right: 1em;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
+    </a>
+    
   </p>
 </div>
 
@@ -88,7 +89,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-p-472514236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krishnaharshap11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/krishnaharshap"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a></p>
+  <a href="https://github.com/krishnaharshap"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krishna-p-472514236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
