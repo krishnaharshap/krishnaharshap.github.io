@@ -9,16 +9,11 @@
 <div class="profile-card" align="center" style="border:2px solid #6366f1; border-radius:16px; background:#f1f5f9; max-width:700px; margin:auto; padding:1.5em 2em; box-shadow:0 2px 8px #6366f122;">
   <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%; margin-bottom:1em;">
   <p>
-    <span class="badge" style="background:#6366f1;">QA Automation</span>
-    <span class="badge" style="background:#10b981;">Python</span>
-    <span class="badge" style="background:#10b981;">Java</span>
-    <span class="badge" style="background:#f59e42;">Selenium</span>
-    <span class="badge" style="background:#ef4444;">Cypress</span>
-    <span class="badge" style="background:#14b8a6;">SDET</span>
-    <span class="badge" style="background:#f43f5e;">Open Source</span>
+    <span class="badge" style="background:#6366f1;">ॐ</span>
   </p>
-    <p style="font-size:1.2em; color:#64748b;">
-    <b>SDET | QA Automation | Java | Python | Selenium | Playwright | Open Source Enthusiast</b>
+    <b> Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</b>
+      <p style="font-size:1.2em; color:#64748b;">
+
   </p>
   <p>
    <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
