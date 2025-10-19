@@ -5,7 +5,7 @@
     👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
   </h1>
   <p style="font-size:1.2em; color:#64748b;">
-    <b>SDET | QA Automation | Python | Selenium | Cypress | Open Source Enthusiast</b>
+    <b>SDET | QA Automation | Java | Python | Selenium | Playwright | Open Source Enthusiast</b>
   </p>
 </div>
 
@@ -40,18 +40,18 @@
 
 <div class="project-list" style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; margin:1.5em 0;">
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
-    <h3><a href="https://github.com/krishnaharshap/MySeleniumFramework">MySeleniumFramework</a></h3>
+    <h3><a href="https://github.com/krishnaharshap/selenium-cucumber-framework">MySeleniumFramework</a></h3>
     <p>Advanced Selenium-based test automation framework for scalable web testing. Supports parallel execution, reporting, and CI/CD integration.</p>
     <img src="https://img.shields.io/github/stars/krishnaharshap/MySeleniumFramework?style=social" alt="Stars"/>
   </div>
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
-    <h3><a href="https://github.com/krishnaharshap/Cypress-Automation">Cypress-Automation</a></h3>
-    <p>Modern Cypress test suites for rapid front-end testing. Includes best practices, page object model, and GitHub Actions integration.</p>
+    <h3><a href="https://github.com/krishnaharshap/ui-automation-parabank">Playwright-Java</a></h3>
+    <p>UI Test Automation framework built using Playwright for Java</p>
     <img src="https://img.shields.io/github/stars/krishnaharshap/Cypress-Automation?style=social" alt="Stars"/>
   </div>
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
-    <h3><a href="https://github.com/krishnaharshap/PyTest-SDET-Boilerplate">PyTest-SDET-Boilerplate</a></h3>
-    <p>Starter boilerplate for PyTest-based SDET automation with fixtures, reporting, and scalable folder structure.</p>
+    <h3><a href="https://github.com/krishnaharshap/playwright-python-mcp">PyTest-SDET-Boilerplate</a></h3>
+    <p>Playwright+Python based test framework and integration with MCP.</p>
     <img src="https://img.shields.io/github/stars/krishnaharshap/PyTest-SDET-Boilerplate?style=social" alt="Stars"/>
   </div>
 </div>
@@ -65,6 +65,7 @@
 - 📢 **Speaker at The Test Tribe Workshop 2025**
 - 🎓 **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
 - 🎓 **Certified  AWS Certified Cloud Practitioner** (AWS CCP CLF-C02)
+- 🎓 **Certified  GitHub Foundations-2025** (New GH-900)
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 🌱 Currently Learning
 
-- Playwright for end-to-end testing
-- Advanced CI/CD pipelines (GitHub Actions, CircleCI)
+- Cypress with AI Integration for end-to-end testing
+- Advanced CI/CD pipelines (GitHub Actions)
 - Cloud-based test automation (AWS Device Farm, BrowserStack)
 
 ---
