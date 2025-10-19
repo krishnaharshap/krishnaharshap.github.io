@@ -4,9 +4,6 @@
   <h1 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
     👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
   </h1>
-  <p style="font-size:1.2em; color:#64748b;">
-    <b>SDET | QA Automation | Java | Python | Selenium | Playwright | Open Source Enthusiast</b>
-  </p>
 </div>
 
 <div class="profile-card" align="center" style="border:2px solid #6366f1; border-radius:16px; background:#f1f5f9; max-width:700px; margin:auto; padding:1.5em 2em; box-shadow:0 2px 8px #6366f122;">
@@ -19,6 +16,9 @@
     <span class="badge" style="background:#ef4444;">Cypress</span>
     <span class="badge" style="background:#14b8a6;">SDET</span>
     <span class="badge" style="background:#f43f5e;">Open Source</span>
+  </p>
+    <p style="font-size:1.2em; color:#64748b;">
+    <b>SDET | QA Automation | Java | Python | Selenium | Playwright | Open Source Enthusiast</b>
   </p>
   <p>
    <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
