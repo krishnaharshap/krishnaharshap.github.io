@@ -2,19 +2,19 @@
 
 <div align="center">
   <h1 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
-    👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
+    ॐ
   </h1>
+  <h2 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
+    👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
+  </h2>
 </div>
 
 <div class="profile-card" align="center" style="border:2px solid #6366f1; border-radius:16px; background:#f1f5f9; max-width:700px; margin:auto; padding:1.5em 2em; box-shadow:0 2px 8px #6366f122;">
   <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%; margin-bottom:1em;">
-  <p>
-    <span class="badge" style="background:#6366f1;">ॐ</span>
+  <p style="font-size:1.2em; color:#64748b;">
+    <b>Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</b>
   </p>
-    <b> Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</b>
-      <p style="font-size:1.2em; color:#64748b;">
-
-  </p>
+</div>
   <p>
    <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
