@@ -55,9 +55,9 @@
 
 ## 🏆 Achievements
 
-- 🏅 **500+** test cases automated across different enterprise projects
-- ⭐ **Open source contributor** to [pytest-dev](https://github.com/pytest-dev/pytest) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
-- 📢 **Speaker at The Test Tribe Workshop 2025**
+- 🏅 **1000+** test cases automated across different enterprise projects
+- ⭐ **Open source contributor** to [Selenium](https://github.com/SeleniumHQ/selenium) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
+- 📢 **Active member The Test Tribe Workshop 2025**
 - 🎓 **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
 - 🎓 **Certified  AWS Certified Cloud Practitioner** (AWS CCP CLF-C02)
 - 🎓 **Certified  GitHub Foundations-2025** (New GH-900)
@@ -78,7 +78,7 @@
 
 - Cypress with AI Integration for end-to-end testing
 - Advanced CI/CD pipelines (GitHub Actions)
-- Cloud-based test automation (AWS Device Farm, BrowserStack)
+- Playwright MCP Server
 
 ---
 
