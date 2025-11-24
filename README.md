@@ -1,20 +1,15 @@
 <!-- GitHub Profile README Portfolio - Rich HTML+CSS Example -->
 
 <div align="center">
-  <h1 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
-    ॐ
-  </h1>
-  <h2 style="font-size:2.5em; margin-bottom:0.2em; color:#3b82f6;">
-    👋 Hi, I'm <span style="color:#6366f1;">Krishna</span>
-  </h2>
+  <h1>ॐ</h1>
+  <h2>Namaste! Krishna's World!</h2>
 </div>
 
-<div class="profile-card" align="center" style="border:2px solid #6366f1; border-radius:16px; background:#f1f5f9; max-width:700px; margin:auto; padding:1.5em 2em; box-shadow:0 2px 8px #6366f122;">
-  <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%; margin-bottom:1em;">
-  <p style="font-size:1.2em; color:#64748b;">
-    <b>Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</b>
-  </p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%;">
+  <p><strong>Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</strong></p>
 </div>
+
   <p>
    <a href="mailto:krishnaharshap11@gmail.com" style="margin-right: 1em;">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
@@ -31,7 +26,7 @@
 
 ---
 
-## 🚀 Top Projects
+## Top Projects
 
 <div class="project-list" style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; margin:1.5em 0;">
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
@@ -53,7 +48,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🏅 **1000+** test cases automated across different enterprise projects
 - ⭐ **Open source contributor** to [Selenium](https://github.com/SeleniumHQ/selenium) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
@@ -64,7 +59,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnaharshap&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
@@ -74,7 +69,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Cypress with AI Integration for end-to-end testing
 - Advanced CI/CD pipelines (GitHub Actions)
@@ -82,7 +77,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="mailto:krishnaharshap11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
