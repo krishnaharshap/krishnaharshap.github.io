@@ -45,13 +45,13 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaharshap&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaharshap&show_icons=true&theme=radical&cache_seconds=21600" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaharshap&layout=compact&theme=radical" alt="Top Languages" width="300" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaharshap&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" />
+</p>
 
 ---
 
