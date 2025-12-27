@@ -15,21 +15,28 @@
 ## Top Projects
 
 <div class="project-list" style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; margin:1.5em 0;">
+
+  <!-- Selenium Cucumber Framework -->
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
     <h3><a href="https://github.com/krishnaharshap/selenium-cucumber-framework">MySeleniumFramework</a></h3>
     <p>Advanced Selenium-based test automation framework for scalable web testing. Supports parallel execution, reporting, and CI/CD integration.</p>
-    <img src="https://img.shields.io/github/stars/krishnaharshap/MySeleniumFramework?style=social" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/krishnaharshap/selenium-cucumber-framework?style=social" alt="Stars"/>
   </div>
+
+  <!-- UI Automation Parabank -->
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
     <h3><a href="https://github.com/krishnaharshap/ui-automation-parabank">Playwright-Java</a></h3>
-    <p>UI Test Automation framework built using Playwright for Java</p>
-    <img src="https://img.shields.io/github/stars/krishnaharshap/Cypress-Automation?style=social" alt="Stars"/>
+    <p>UI Test Automation framework built using Playwright for Java.</p>
+    <img src="https://img.shields.io/github/stars/krishnaharshap/ui-automation-parabank?style=social" alt="Stars"/>
   </div>
+
+  <!-- Playwright Python MCP -->
   <div class="project-card" style="border:1px solid #e5e7eb; border-radius:12px; background:#fff; min-width:280px; max-width:320px; padding:1em; margin:0.5em; box-shadow:0 2px 6px #6366f122;">
     <h3><a href="https://github.com/krishnaharshap/playwright-python-mcp">PyTest-SDET-Boilerplate</a></h3>
     <p>Playwright+Python based test framework and integration with MCP.</p>
-    <img src="https://img.shields.io/github/stars/krishnaharshap/PyTest-SDET-Boilerplate?style=social" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/krishnaharshap/playwright-python-mcp?style=social" alt="Stars"/>
   </div>
+
 </div>
 
 ---
