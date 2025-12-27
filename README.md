@@ -43,21 +43,34 @@
 
 ## Achievements
 
-- 🏅 **1000+** test cases automated across different enterprise projects
-- ⭐ **Open source contributor** to [Selenium](https://github.com/SeleniumHQ/selenium) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
-- 📢 **Active member The Test Tribe Workshop 2025**
-- 🎓 **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
-- 🎓 **Certified  AWS Certified Cloud Practitioner** (AWS CCP CLF-C02)
-- 🎓 **Certified  GitHub Foundations-2025** (New GH-900)
+- **1000+** test cases automated across different enterprise projects
+- **Open source contributor** to [Selenium](https://github.com/SeleniumHQ/selenium) and [awesome-testing](https://github.com/TheJambo/awesome-testing)
+- **Active member The Test Tribe Workshop 2025**
+- **Certified Tester Foundation Level** (ISTQB CTFL 4.0)
+- **Certified  AWS Certified Cloud Practitioner** (AWS CCP CLF-C02)
+- **Certified  GitHub Foundations-2025** (New GH-900)
 
 ---
 
-## GitHub Activity & Stats
+### Core Skills
+- **Test Automation:** Selenium, Playwright, Cypress  
+- **Languages:** Java, Python, JavaScript  
+- **Frameworks:** Cucumber, TestNG, PyTest  
+- **Tools:** Git, GitHub, Jira, Jenkins, Postman  
+- **Cloud/CI:** GitHub Actions, AWS basics
+
+---
+
+## GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaharshap&show_icons=true&theme=radical&cache_seconds=21600" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaharshap&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/krishnaharshap?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+
+  <!-- GitHub Contribution Graph -->
+<img src="https://github.pumbas.net/api/contributions/krishnaharshap" alt="GitHub Contribution Graph for krishnaharshap"/>
+
 </p>
 
 ---
