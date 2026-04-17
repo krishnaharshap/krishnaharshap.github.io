@@ -1,13 +1,12 @@
 <!-- GitHub Profile README Portfolio - Rich HTML+CSS Example -->
 
 <div align="center">
-  <h1>ॐ</h1>
+ 
   <h2>Namaste! Krishna's World!</h2>
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/krishnaharshap" alt="Krishna Harsha" width="96" style="border-radius:50%;">
-  <p><strong>Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</strong></p>
+<p><strong>Test Automation | SDET | Quality Assurance | Java | Python | Selenium | Playwright | Cypress | Open Source Enthusiast</strong></p>
 </div>
 
 ---
