@@ -2,7 +2,7 @@
 
 <div align="center">
  
-  <h2>Namaste! Krishna's World!</h2>
+  <h2>Namaste!</h2>
 </div>
 
 <div align="center">
