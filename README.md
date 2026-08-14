@@ -6,6 +6,6 @@ Static site (`index.html` + `style.css`), no build step, deployed via GitHub Pag
 
 ## Structure
 
-- `index.html` — page content
-- `style.css` — styling
-- `.nojekyll` — disables Jekyll processing so the site is served as-is
+- `index.html`: page content
+- `style.css`: styling
+- `.nojekyll`: disables Jekyll processing so the site is served as-is
