@@ -7,7 +7,6 @@
   --accent: #6d4de0;
   --accent-light: #9b8afb;
   --accent-tint: #f5f3ff;
-  --accent-ink: #ffffff;
   --radius: 12px;
   --max-width: 960px;
 
@@ -75,15 +74,6 @@ main { max-width: var(--max-width); margin: 0 auto; padding: 0 24px; }
   padding: 96px 0 64px;
 }
 
-.eyebrow {
-  color: var(--accent);
-  font-weight: 600;
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  margin: 0 0 16px;
-}
-
 .hero h1 {
   font-size: var(--fs-hero);
   line-height: 1.15;
@@ -106,22 +96,18 @@ main { max-width: var(--max-width); margin: 0 auto; padding: 0 24px; }
   padding: 10px 20px;
   border-radius: 999px;
   border: 1px solid var(--border);
+  background: none;
   text-decoration: none;
+  font-family: inherit;
   font-weight: 500;
   font-size: 0.95rem;
   color: var(--ink);
+  cursor: pointer;
+  appearance: none;
   transition: border-color 0.15s ease, transform 0.15s ease;
 }
 
 .btn:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
-
-.btn-primary {
-  background: var(--accent);
-  color: var(--accent-ink);
-  border-color: var(--accent);
-}
-
-.btn-primary:hover { border-color: var(--accent); color: var(--accent-ink); opacity: 0.92; }
 
 .card-cta { margin-top: auto; }
 
@@ -171,6 +157,8 @@ main { max-width: var(--max-width); margin: 0 auto; padding: 0 24px; }
   display: flex;
   align-items: center;
   justify-content: center;
+  border-color: var(--accent-light);
+  color: var(--accent);
 }
 
 .card {
