@@ -284,4 +284,7 @@ main { max-width: var(--max-width); margin: 0 auto; padding: 0 24px; }
   .hero { padding: 64px 0 48px; }
   .hero h1 { font-size: 2rem; }
   .nav nav a { margin-left: 14px; font-size: 0.85rem; }
+  .carousel { gap: 8px; }
+  .carousel-arrow { width: 32px; height: 32px; }
+  .carousel-track .card { flex-basis: 240px; }
 }
