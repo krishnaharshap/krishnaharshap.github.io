@@ -35,13 +35,13 @@
     <p class="hero-sub">
       My core stack is Selenium, Playwright, and Cucumber-based BDD, with REST API
       validation and MS-SQL backend checks, wired into CI/CD through GitHub Actions and
-      Jenkins. I also use Claude day-to-day for designing test cases, debugging flaky
-      failures, and triaging CI pipeline issues.
+      Jenkins. I pair with Claude daily to speed up test design, cut flaky-failure
+      triage time, and keep CI pipelines healthy.
     </p>
     <div class="hero-actions">
-      <a class="btn btn-primary" href="https://github.com/krishnaharshap" target="_blank" rel="noopener">GitHub Profile</a>
-      <a class="btn" href="https://www.linkedin.com/in/krishna-p-472514236/" target="_blank" rel="noopener">LinkedIn</a>
-      <a class="btn" href="mailto:krishnaharshap11@gmail.com">Email</a>
+      <a class="btn btn-primary" href="https://github.com/krishnaharshap" target="_blank" rel="noopener" title="https://github.com/krishnaharshap">GitHub Profile</a>
+      <a class="btn" href="https://www.linkedin.com/in/krishna-p-472514236/" target="_blank" rel="noopener" title="https://www.linkedin.com/in/krishna-p-472514236/">LinkedIn</a>
+      <a class="btn" href="mailto:krishnaharshap11@gmail.com" title="krishnaharshap11@gmail.com">Email</a>
     </div>
   </section>
 
@@ -49,83 +49,88 @@
     <h2>Featured Projects</h2>
     <p class="section-sub">Test automation frameworks and tooling, built and maintained end to end.</p>
 
-    <div class="grid">
+    <div class="carousel">
+      <button class="btn carousel-arrow carousel-prev" type="button" aria-label="Previous project">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
 
-      <article class="card">
-        <h3><a href="https://github.com/krishnaharshap/selenium-cucumber-framework" target="_blank" rel="noopener">selenium-cucumber-framework</a></h3>
-        <p>E2E test automation framework for the SauceDemo e-commerce app, covering login, product management, and checkout with 14+ BDD scenarios.</p>
-        <ul class="feature-list">
-          <li>Page Object Model + Cucumber/Gherkin BDD</li>
-          <li>Cross-browser (Chrome, Firefox, Edge), parallel execution</li>
-          <li>Allure and Extent Reports, screenshot capture on failure</li>
-          <li>GitHub Actions + Jenkins pipelines</li>
-        </ul>
-        <div class="tags">
-          <span>Java</span><span>Selenium</span><span>Cucumber</span><span>TestNG</span><span>Maven</span>
-        </div>
-        <a class="card-link" href="https://github.com/krishnaharshap/selenium-cucumber-framework" target="_blank" rel="noopener">View repository →</a>
-      </article>
+      <div class="carousel-track" id="projects-track">
 
-      <article class="card">
-        <h3><a href="https://github.com/krishnaharshap/ui-automation-parabank" target="_blank" rel="noopener">ui-automation-parabank</a></h3>
-        <p>UI automation suite for the ParaBank demo banking app, covering login flows and form validation with headless browser testing.</p>
-        <ul class="feature-list">
-          <li>Playwright for Java + TestNG</li>
-          <li>Smoke tests for login and validation errors</li>
-          <li>Extent HTML and Surefire reporting</li>
-          <li>GitHub Actions CI with artifact uploads</li>
-        </ul>
-        <div class="tags">
-          <span>Java</span><span>Playwright</span><span>TestNG</span><span>Maven</span>
-        </div>
-        <a class="card-link" href="https://github.com/krishnaharshap/ui-automation-parabank" target="_blank" rel="noopener">View repository →</a>
-      </article>
+        <article class="card">
+          <h3><a href="https://github.com/krishnaharshap/selenium-cucumber-framework" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/selenium-cucumber-framework">selenium-cucumber-framework</a></h3>
+          <p>E2E automation for the SauceDemo app: login, product management, and checkout across 14+ BDD scenarios.</p>
+          <ul class="feature-list">
+            <li>Page Object Model + Cucumber/Gherkin BDD</li>
+            <li>Cross-browser (Chrome, Firefox, Edge), parallel execution</li>
+            <li>Allure/Extent reporting, GitHub Actions + Jenkins CI</li>
+          </ul>
+          <div class="tags">
+            <span>Java</span><span>Selenium</span><span>Cucumber</span><span>TestNG</span><span>Maven</span>
+          </div>
+          <a class="btn card-cta" href="https://github.com/krishnaharshap/selenium-cucumber-framework" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/selenium-cucumber-framework">View repository</a>
+        </article>
 
-      <article class="card">
-        <h3><a href="https://github.com/krishnaharshap/playwright-python-mcp" target="_blank" rel="noopener">playwright-python-mcp</a></h3>
-        <p>Python client that drives browser automation by talking to the official Playwright MCP server over stdio, with no separate browser server process required.</p>
-        <ul class="feature-list">
-          <li>Launches <code>@playwright/mcp</code> via npx, stdio transport</li>
-          <li>Smoke tests against Playwright's TodoMVC demo</li>
-          <li>Unit tests plus optional live integration tests</li>
-          <li>GitHub Actions CI</li>
-        </ul>
-        <div class="tags">
-          <span>Python</span><span>Playwright MCP</span><span>pytest</span><span>Node.js</span>
-        </div>
-        <a class="card-link" href="https://github.com/krishnaharshap/playwright-python-mcp" target="_blank" rel="noopener">View repository →</a>
-      </article>
+        <article class="card">
+          <h3><a href="https://github.com/krishnaharshap/ui-automation-parabank" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/ui-automation-parabank">ui-automation-parabank</a></h3>
+          <p>UI automation for the ParaBank banking app: login flows and form validation, headless.</p>
+          <ul class="feature-list">
+            <li>Playwright for Java + TestNG</li>
+            <li>Smoke tests: login flows, validation errors</li>
+            <li>Extent/Surefire reporting, GitHub Actions CI</li>
+          </ul>
+          <div class="tags">
+            <span>Java</span><span>Playwright</span><span>TestNG</span><span>Maven</span>
+          </div>
+          <a class="btn card-cta" href="https://github.com/krishnaharshap/ui-automation-parabank" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/ui-automation-parabank">View repository</a>
+        </article>
 
-      <article class="card">
-        <h3><a href="https://github.com/krishnaharshap/docker-qa-demo" target="_blank" rel="noopener">docker-qa-demo</a></h3>
-        <p>Minimal Alpine-based Docker image demonstrating a full container lifecycle for QA tooling: build, tag, and publish to GHCR.</p>
-        <ul class="feature-list">
-          <li>Alpine Linux base, ~20MB image footprint</li>
-          <li>OCI-compliant metadata labels</li>
-          <li>Validation script to confirm container health</li>
-          <li>Foundation for wiring in Selenium/Playwright + CI</li>
-        </ul>
-        <div class="tags">
-          <span>Docker</span><span>Alpine</span><span>GHCR</span>
-        </div>
-        <a class="card-link" href="https://github.com/krishnaharshap/docker-qa-demo" target="_blank" rel="noopener">View repository →</a>
-      </article>
+        <article class="card">
+          <h3><a href="https://github.com/krishnaharshap/playwright-python-mcp" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/playwright-python-mcp">playwright-python-mcp</a></h3>
+          <p>Talks to the official Playwright MCP server over stdio to drive browser automation, no separate browser server needed.</p>
+          <ul class="feature-list">
+            <li>Launches <code>@playwright/mcp</code> via npx, stdio transport</li>
+            <li>Smoke tests against Playwright's TodoMVC demo</li>
+            <li>Unit + live integration tests, GitHub Actions CI</li>
+          </ul>
+          <div class="tags">
+            <span>Python</span><span>Playwright MCP</span><span>pytest</span><span>Node.js</span>
+          </div>
+          <a class="btn card-cta" href="https://github.com/krishnaharshap/playwright-python-mcp" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/playwright-python-mcp">View repository</a>
+        </article>
 
-      <article class="card">
-        <h3><a href="https://github.com/krishnaharshap/contribution-limits-tool" target="_blank" rel="noopener">contribution-limits-tool</a></h3>
-        <p>Canadian TFSA/FHSA/RRSP contribution room tracker, a real React + TypeScript product built around a fully unit-tested calculation engine and a native Playwright e2e suite.</p>
-        <ul class="feature-list">
-          <li>Vitest unit tests (98%+ coverage) + native Playwright Test e2e with axe-core accessibility scans</li>
-          <li>Shared scenario fixtures asserted against both the calculator logic and the rendered UI</li>
-          <li>Coverage-gated CI, GitHub Actions deploy straight to Pages on every merge</li>
-          <li>CRA-accurate contribution rules, including edge cases like TFSA's 2015 limit anomaly and FHSA's capped carryforward</li>
-        </ul>
-        <div class="tags">
-          <span>React</span><span>TypeScript</span><span>Vite</span><span>Playwright</span><span>Vitest</span>
-        </div>
-        <a class="card-link" href="https://github.com/krishnaharshap/contribution-limits-tool" target="_blank" rel="noopener">View repository →</a>
-      </article>
+        <article class="card">
+          <h3><a href="https://github.com/krishnaharshap/docker-qa-demo" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/docker-qa-demo">docker-qa-demo</a></h3>
+          <p>Minimal Alpine Docker image covering the full QA tooling lifecycle: build, tag, publish to GHCR.</p>
+          <ul class="feature-list">
+            <li>Alpine Linux base, ~20MB image footprint</li>
+            <li>OCI-compliant metadata labels, health-check validation script</li>
+            <li>Foundation for wiring in Selenium/Playwright + CI</li>
+          </ul>
+          <div class="tags">
+            <span>Docker</span><span>Alpine</span><span>GHCR</span>
+          </div>
+          <a class="btn card-cta" href="https://github.com/krishnaharshap/docker-qa-demo" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/docker-qa-demo">View repository</a>
+        </article>
 
+        <article class="card">
+          <h3><a href="https://github.com/krishnaharshap/contribution-limits-tool" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/contribution-limits-tool">contribution-limits-tool</a></h3>
+          <p>Canadian TFSA/FHSA/RRSP contribution room tracker: React + TypeScript, fully unit-tested, with a native Playwright e2e suite.</p>
+          <ul class="feature-list">
+            <li>Vitest unit tests (98%+ coverage) + Playwright e2e with axe-core scans</li>
+            <li>Shared scenario fixtures for calculator logic and rendered UI</li>
+            <li>Coverage-gated CI, auto-deploy to Pages on every merge</li>
+          </ul>
+          <div class="tags">
+            <span>React</span><span>TypeScript</span><span>Vite</span><span>Playwright</span><span>Vitest</span>
+          </div>
+          <a class="btn card-cta" href="https://github.com/krishnaharshap/contribution-limits-tool" target="_blank" rel="noopener" title="https://github.com/krishnaharshap/contribution-limits-tool">View repository</a>
+        </article>
+
+      </div>
+
+      <button class="btn carousel-arrow carousel-next" type="button" aria-label="Next project">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>
+      </button>
     </div>
   </section>
 
@@ -133,26 +138,26 @@
     <h2>Live Pages</h2>
     <p class="section-sub">Other browser-based sites hosted directly from my GitHub account.</p>
 
-    <div class="grid two-col">
-      <a class="page-card" href="https://krishnaharshap.github.io/selenium-cucumber-framework/" target="_blank" rel="noopener">
+    <div class="grid">
+      <a class="page-card" href="https://krishnaharshap.github.io/selenium-cucumber-framework/" target="_blank" rel="noopener" title="https://krishnaharshap.github.io/selenium-cucumber-framework/">
         <h3>selenium-cucumber-framework: Allure Report</h3>
-        <p>Live Allure test report for my Selenium 4 + Cucumber 7 + TestNG E2E framework: suite results, pass/fail trends, and run history published automatically from GitHub Actions on every CI run.</p>
-        <span class="card-link">Open live page →</span>
+        <p>Live Allure test report: suite results, pass/fail trends, and run history published automatically on every CI run.</p>
+        <span class="btn">View site</span>
       </a>
-      <a class="page-card" href="https://krishnaharshap.github.io/professional-website-resume/" target="_blank" rel="noopener">
+      <a class="page-card" href="https://krishnaharshap.github.io/professional-website-resume/" target="_blank" rel="noopener" title="https://krishnaharshap.github.io/professional-website-resume/">
         <h3>professional-website-resume</h3>
-        <p>Interactive resume that tests itself: six-section deep-linkable layout with keyboard and dot navigation, dual purple themes, a downloadable PDF generated from the site, and its own Playwright suite with axe accessibility scans running in GitHub Actions.</p>
-        <span class="card-link">Open live page →</span>
+        <p>Interactive resume that tests itself: deep-linkable sections, dual purple themes, a downloadable PDF, and its own Playwright + accessibility suite.</p>
+        <span class="btn">View site</span>
       </a>
-      <a class="page-card" href="https://krishnaharshap.github.io/custom-gh-billing-ui/" target="_blank" rel="noopener">
+      <a class="page-card" href="https://krishnaharshap.github.io/custom-gh-billing-ui/" target="_blank" rel="noopener" title="https://krishnaharshap.github.io/custom-gh-billing-ui/">
         <h3>custom-gh-billing-ui</h3>
         <p>Free-tier dashboard to monitor usage and spending on GitHub's metered products.</p>
-        <span class="card-link">Open live page →</span>
+        <span class="btn">View site</span>
       </a>
-      <a class="page-card" href="https://krishnaharshap.github.io/contribution-limits-tool/" target="_blank" rel="noopener">
+      <a class="page-card" href="https://krishnaharshap.github.io/contribution-limits-tool/" target="_blank" rel="noopener" title="https://krishnaharshap.github.io/contribution-limits-tool/">
         <h3>contribution-limits-tool</h3>
-        <p>Live TFSA/FHSA/RRSP contribution room tracker built with React and TypeScript, deployed automatically from GitHub Actions on every merge to main.</p>
-        <span class="card-link">Open live page →</span>
+        <p>Live TFSA/FHSA/RRSP contribution room tracker, deployed automatically on every merge to main.</p>
+        <span class="btn">View site</span>
       </a>
     </div>
   </section>
@@ -200,17 +205,18 @@
     <img src="assets/profile.jpg" alt="Krishna Harsha Puppala" class="connect-photo" width="96" height="96" loading="lazy">
     <h2>Let's connect</h2>
     <div class="connect-links">
-      <a href="mailto:krishnaharshap11@gmail.com">Email</a>
-      <a href="https://github.com/krishnaharshap" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://www.linkedin.com/in/krishna-p-472514236/" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="btn" href="mailto:krishnaharshap11@gmail.com" title="krishnaharshap11@gmail.com">Email</a>
+      <a class="btn" href="https://github.com/krishnaharshap" target="_blank" rel="noopener" title="https://github.com/krishnaharshap">GitHub</a>
+      <a class="btn" href="https://www.linkedin.com/in/krishna-p-472514236/" target="_blank" rel="noopener" title="https://www.linkedin.com/in/krishna-p-472514236/">LinkedIn</a>
     </div>
   </section>
 
 </main>
 
 <footer class="footer">
-  <p>Krishna Harsha Puppala. Built and deployed with GitHub Pages.</p>
+  <p>Krishna Harsha Puppala · Built and deployed with GitHub Pages.</p>
 </footer>
 
+<script src="js/carousel.js" defer></script>
 </body>
 </html>
