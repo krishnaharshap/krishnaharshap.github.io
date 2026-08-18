@@ -223,6 +223,16 @@ main { max-width: var(--max-width); margin: 0 auto; padding: 0 24px; }
 
 .connect { text-align: center; }
 
+.connect-photo {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  margin: 0 auto 20px;
+  display: block;
+}
+
 .connect-links { display: flex; justify-content: center; gap: 24px; margin-top: 16px; }
 
 .connect-links a {
